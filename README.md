@@ -2,7 +2,7 @@
 
 # PORTUGUÊS
 
-1. Baixe o arquivo/pasta
+1. Baixe o arquivo zip e extraia.
 
 2. Entre na parte de Extensões no Google Chrome
 
@@ -13,7 +13,7 @@
 
 # ENGLISH
 
-1. Download the file/folder
+1. Download the file zipped and extract.
 
 2. Enter the Extensions part in Google Chrome
 
