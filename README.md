@@ -1,4 +1,4 @@
-# Tema Flutter - Google Chrome 1.0
+# Tema Flutter - Google Chrome 1.0 // Theme Flutter - Google Chrome 1.0
 
 # PORTUGUESE
 
