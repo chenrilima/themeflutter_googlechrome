@@ -19,4 +19,4 @@
 
 3. Activate Developer Mode
 
-4. Load unpacked and select the entire folder that has been "zipped"
+4. Load unpacked and select the entire folder that has been "extracted"
