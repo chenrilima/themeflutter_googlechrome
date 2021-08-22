@@ -8,7 +8,7 @@
 
 3. Ative o Modo Desenvolvedor
 
-4. Load unpacked e selecione a pasta inteira que foi "zipada"
+4. Load unpacked e selecione a pasta inteira que foi "extraída"
 
 
 # ENGLISH
