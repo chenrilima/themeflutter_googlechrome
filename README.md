@@ -1,6 +1,6 @@
 # Tema Flutter - Google Chrome 1.0 // Theme Flutter - Google Chrome 1.0
 
-# PORTUGUESE
+# PORTUGUÊS
 
 1. Baixe o arquivo/pasta
 
